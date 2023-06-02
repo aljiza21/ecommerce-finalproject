@@ -68,7 +68,7 @@ const Registration = () => {
           <button className="mt-4 bg-themecolor hover:border-white px-4 py-2 text-white uppercase rounded text-xs tracking-wider" type="submit">Register</button>
         </div>
         <div className="mt-4 font-semibold text-sm text-slate-500 text-center md:text-left">
-          Already have an account? <a className="text-themecolor hover:underline hover:underline-offset-4" onClick={(navigateRegister)}>Login here.</a>
+          Already have an account? <a className="text-primary hover:underline hover:underline-offset-4" onClick={(navigateRegister)}>Login here.</a>
         </div>
       </div>
     </section>
