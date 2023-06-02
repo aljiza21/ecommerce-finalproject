@@ -20,7 +20,7 @@ const Login = () => {
         <div className="md:w-1/3 max-w-sm">
           <div className="text-center md:text-left mb-5">
             <h3 className="mb-4 text-xl font-extrabold leading-none tracking-tight text-gray-900 md:text-4 xl lg:text-5xl dark:text-white">
-              Welcome!
+              Welcome !
             </h3>
             <label className="mr-1">Login your credentials.</label>
           </div>
@@ -55,7 +55,7 @@ const Login = () => {
           </div>
           <div className="mt-4 font-semibold text-sm text-slate-500 text-center md:text-left">
             Don't have an account?{' '}
-            <a className="text-themecolor hover:underline hover:underline-offset-4" onClick={navigateRegister}>
+            <a className="text-primary hover:underline hover:underline-offset-4" onClick={navigateRegister}>
               Register.
             </a>
           </div>
