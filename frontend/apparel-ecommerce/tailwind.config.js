@@ -21,6 +21,7 @@ module.exports = {
         primary: '#222222',
         secondary: '#F5E6E0',
         themecolor: '#B8A2E0',
+        activecolor: '#5c3e96',
       },
       backgroundImage: {
         hero: "url('./img/bg_hero.svg')",

@@ -1,13 +1,9 @@
 import React from 'react';
 import logo from '../img/logo.png';
+import {RiLoginBoxFill} from 'react-icons/ri';
 
 const Home = () => {
-
-  return <div>Homepage
-    <img src={logo} ></img>
-  </div>
-  ;
- 
+return 
 };
 
 export default Home;
