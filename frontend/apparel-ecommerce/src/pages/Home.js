@@ -1,9 +1,15 @@
 import React from 'react';
-import logo from '../img/logo.png';
-import {RiLoginBoxFill} from 'react-icons/ri';
+import Footer from '../components/Footer';
 
 const Home = () => {
-return 
+
+  return (
+    <div>Homepage
+    <Footer />
+  </div>
+ 
+  )
+  
 };
 
 export default Home;
