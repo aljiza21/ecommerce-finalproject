@@ -1,8 +1,12 @@
 import React from 'react';
+import logo from '../img/logo.png';
 
 const Home = () => {
 
-  return <div>Homepage</div>;
+  return <div>Homepage
+    <img src={logo} ></img>
+  </div>
+  ;
  
 };
 
